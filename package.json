@@ -13,5 +13,7 @@
     "cheerio": "^1.0.0-rc.3",
     "pixiv-login": "^1.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "homepage": "https://github.com/CoCoyh/npm-test#readme",
+  "repository": "git@github.com:CoCoyh/npm-test.git"
 }
